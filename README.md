@@ -12,8 +12,11 @@
 *Menu Operations...*
 
 a. Instruction
+
 b. Pause Game
+
 c. Levels
+
 d. Start Game 
 
 ![Pac9](https://github.com/hammadshabbir10/PacMan/assets/114811739/2c71a973-b1c2-4a1c-aa83-d780db439be8)
@@ -26,7 +29,7 @@ This is all about *Levels*
 
 ![Pac3](https://github.com/hammadshabbir10/PacMan/assets/114811739/ccbd8a99-5dcc-498c-93f9-0962543c84ec)
 
-*Level 1:* In this specific picture, you can see that walls are designed with paths for Pac-Man to collect the stars. The score can be increased by collecting these stars, and upon reaching a specific score, you move to the next level."
+*Level 1:* In this specific picture, you can see that walls are designed with paths for Pac-Man to collect the stars. The score can be increased by collecting these stars, and upon reaching a specific score, you move to the next level.
 
 ![Pac4](https://github.com/hammadshabbir10/PacMan/assets/114811739/16c41eb5-6b38-4128-90b2-62eace087547)
 
